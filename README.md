@@ -1,2 +1,4 @@
 # hello-world
-Learning
+
+This is a repo for the hello world tutorial.
+
